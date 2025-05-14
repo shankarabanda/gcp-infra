@@ -2,7 +2,7 @@
 
 variable "gcp_project_id" {
   type        = string
-  default     = "cloudorbit"
+  default     = "possible-coast-355509"
   description = "Id of the GCP project"
 }
 
